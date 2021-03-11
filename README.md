@@ -79,3 +79,8 @@ Customers usually do not decide to switch to another competitor instantly, but r
  
 `In this case, since you are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.`
 
+
+This POC contains below files:
+
+- Telecom_Churn_prediction.ipynb - iPython Notebook
+- Recommended Models to Business.pdf - Business recommendation
